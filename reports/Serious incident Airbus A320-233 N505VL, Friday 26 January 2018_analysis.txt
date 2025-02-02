@@ -1,0 +1,28 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-233 N505VL, Friday 26 January 2018
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident:
+A) The driver did not see the flashing red lights at the intersection.
+B) The driver did not see the intersection at the time of the accident.
+C) The driver did not see the intersection at the time of the accident.
+D) The driver did not see the intersection at the time of the accident.
+E) The driver did not see the intersection at the time of the accident.
+F) The driver did not see the intersection at the time of the accident.
+G) The driver did not see the intersection at the time of the accident.
+H) The driver did not see the intersection at the time of the accident.
+I) The driver did not see the intersection at the time of the accident.
+J) The driver did not see the intersection at the time of the accident.
+K) The driver did not
+                

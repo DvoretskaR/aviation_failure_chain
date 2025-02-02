@@ -1,0 +1,19 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Report to VT-WGJ
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+            A man in a white suit walks into a bar. He orders a drink, but the bartender is busy, so he orders another. He orders another. He orders another. He orders another. The bartender looks at him and says, "I can't get any more drinks in me."              The man in the white suit walks out of the bar, gets in his car, drives away. He's gone. The bar is packed. He gets in his car and drives away.
+            The car is stopped at a red light, and the driver, a black man, gets out and walks over to the man in the white suit. He asks the man, "What happened?"              The man in the white suit says, "I don't know."              The man in the white suit says, "What happened?"          
+                

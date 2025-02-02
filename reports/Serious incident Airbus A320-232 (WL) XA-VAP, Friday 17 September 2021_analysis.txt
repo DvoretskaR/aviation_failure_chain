@@ -1,0 +1,19 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-232 (WL) XA-VAP, Friday 17 September 2021
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+ At approximately 8:00 PM on February 2, 2009, a vehicle that was involved in a collision with a semi-truck on Interstate 20 in Minneapolis, Minn., collided with another vehicle. The driver of the semi-truck was thrown from the semi-truck and was pronounced dead at the scene. The semi-truck driver was the only occupant of the vehicle, which was traveling northbound on I-20. 
+The accident was reported to the State Patrol. The driver of the semi-truck was taken to a hospital and was later pronounced dead. The driver of the semi-truck was a 42-year-old man from Minneapolis, who had been involved in a previous collision with a vehicle on I-20 on February 2, 2009. The driver of the semi-truck was not wearing a seat belt and had no medical
+                

@@ -1,0 +1,21 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-232 (WL) HS-TXN, Monday 25 January 2016
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+ A motorcyclist riding in a bike lane collided with a vehicle in a crosswalk. The motorcyclist had been crossing the crosswalk when the vehicle struck him, and then the motorcyclist was thrown from his bike into the roadway. 
+ The motorcyclist's injuries were severe. He lost consciousness, and died immediately. 
+ The motorcyclist's wife was driving. She drove to her home after the accident, and noticed that her husband was unconscious. She called 911. 
+ The responding officer asked the motorcyclist's wife, "What happened?" The wife replied, "He hit me." The officer asked, "Did you hit him?" The wife replied, "Yes." The officer then asked the motorcyclist's wife, "Did you hit him?" The wife replied, "Yes." The officer then asked, "
+                

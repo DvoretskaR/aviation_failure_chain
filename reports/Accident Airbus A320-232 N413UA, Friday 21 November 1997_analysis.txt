@@ -1,0 +1,18 @@
+                FLUGUNFALLANALYSEBERICHT: Accident Airbus A320-232 N413UA, Friday 21 November 1997
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident:
+The vehicle is driven by a male, and the driver is not wearing seat belt. The driver is driving in a manner that is unsafe for the driver's safety. The vehicle is traveling at a high rate of speed, and the driver's speed is significantly less than the posted speed limit. The vehicle is driven by a male, and the driver is not wearing seat belt. The driver is driving in a manner that is unsafe for the driver's safety. The vehicle is traveling at a high rate of speed, and the driver's speed is significantly less than the posted speed limit. The driver's speed is significantly less than the posted speed limit. The driver's speed is significantly less than the posted speed limit. The driver's speed is significantly less than the posted speed limit. The driver's speed is significantly less than the posted speed limit. The driver's speed is significantly less
+                

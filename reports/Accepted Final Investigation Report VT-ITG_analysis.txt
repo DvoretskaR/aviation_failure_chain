@@ -1,0 +1,46 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-ITG
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+The engine was stopped.
+The engine was not fully shut down.
+The engine was not fully shut down.
+The engine was stopped.
+The engine was not fully shut down.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+The engine was stopped.
+
+                

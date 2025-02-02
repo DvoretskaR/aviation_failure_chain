@@ -1,0 +1,18 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-ITP
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+First, we must understand that the engine was not working properly.  It was cold and had a bad oil pump.  It was running at a slow speed.  The engine was not using any fuel.  The fuel pump was not working properly.  We were running on fuel that was not properly regulated.  The engine was running at a speed of 25 mph.  This is a problem with the oil pump.  It was leaking fuel into the engine.  The engine was running at a speed of 25 mph.  This is a problem with the oil pump.  It was leaking fuel into the engine.  The engine was running at a speed of 25 mph.  This is a problem with the oil pump.  It was leaking fuel into the engine.  The engine was running at a speed of 25 mph.  This is a problem with the oil pump
+                

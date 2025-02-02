@@ -1,0 +1,26 @@
+                FLUGUNFALLANALYSEBERICHT: Accident Airbus A300B2-101 VT-EDV, Monday 15 November 1993
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+The left hand side of the car is on the left hand side of the driver's seat.
+The left hand side of the car is on the right hand side of the driver's seat.
+The right hand side of the car is on the left hand side of the driver's seat.
+The right hand side of the car is on the right hand side of the driver's seat.
+The right hand side of the car is on the left hand side of the driver's seat.
+The right hand side of the car is on the right hand side of the driver's seat.
+The left hand side of the car is on the left hand side of the driver's seat.
+The left hand side of the car is on the right hand side of the driver's seat.
+The right hand side of the car is on the left hand side of the driver's
+                

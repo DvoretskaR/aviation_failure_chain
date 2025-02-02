@@ -1,0 +1,20 @@
+                FLUGUNFALLANALYSEBERICHT: Airbus_A320-232_9H-LOZ_06-22
+                
+                1. Kodierte Probleme:
+                - Primary Problem:
+  • root cause
+                
+                2. Primärproblem:
+                Kategorie: PRIMARY_PROBLEM
+                Beweise: root cause
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: PRIMARY_PROBLEM
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+ In the car, the front left side of the car had a small piece of metal with a hole through it that was missing the entire right side of the car. This hole was drilled into the frame of the car. This metal piece was then slid into the hole on the right side of the car. This allowed the metal piece to come out of the hole and slide into the rear of the car. The metal piece then slid into the door of the car. The metal piece then slid into the rear of the car, then through the front of the car, then through the door of the car. The front left side of the car was also damaged and the metal piece that was removed from the front left side of the car was now stuck in the rear of the car.
+This is where the problem with the car occurred. The front left
+                

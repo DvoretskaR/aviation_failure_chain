@@ -1,0 +1,26 @@
+                FLUGUNFALLANALYSEBERICHT: Airbus_A320-214_OE-LOA_09-20
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+The vehicle was parked at the intersection of I-90 and State Highway 1, in the parking lot of a convenience store.
+The driver of the vehicle tried to park in front of the convenience store, but it was not possible due to the parking lot being blocked by trees.
+The driver drove to the side of the convenience store and attempted to park in front of the convenience store, but the trees were too high to park in front of the convenience store.
+The driver drove over a tree and onto the sidewalk. The driver was unable to move his vehicle because of the tree.
+The driver was unable to move his vehicle because of the tree.
+The driver was unable to move his vehicle because of the tree.
+The driver was unable to move his vehicle because of the tree.
+The driver was unable to move his vehicle because of the tree.
+The driver
+                

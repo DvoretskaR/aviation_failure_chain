@@ -1,0 +1,29 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-232 (WL) HS-TXH, Thursday 11 January 2018
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+1. When the pilot lands the airplane, he takes off and then his hands are on the controls.
+2. He does not have the proper attitude and begins to turn.
+3. He does not have the correct attitude and starts to turn.
+4. He does not have the proper attitude and begins to turn.
+5. He does not have the correct attitude and starts to turn.
+6. He does not have the proper attitude and begins to turn.
+7. He does not have the proper attitude and starts to turn.
+8. He does not have the proper attitude and begins to turn.
+9. He does not have the proper attitude and begins to turn.
+10. He does not have the proper attitude and begins to turn.
+11. He does not have the proper attitude and begins to turn.
+12. He does not
+                

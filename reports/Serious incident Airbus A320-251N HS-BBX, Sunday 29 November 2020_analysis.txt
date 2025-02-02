@@ -1,0 +1,19 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-251N HS-BBX, Sunday 29 November 2020
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident: 
+The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus. 
+The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver of the vehicle that was involved in the accident was driving a 2007 Ford Focus.  The driver
+                

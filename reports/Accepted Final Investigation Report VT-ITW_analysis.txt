@@ -1,0 +1,24 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-ITW
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+The vehicle's front right wheel came off the gas pedal, causing the front right engine to stall. The vehicle was traveling at a low speed, and the left front engine was running at a high speed. The vehicle was traveling at a very high speed.
+The vehicle was not able to get up on its own, and had to stop at a light.
+The vehicle was stopped at a traffic light, and was then able to pull over and continue its journey.
+The vehicle was not able to get up on its own, and had to stop at a traffic light.
+The vehicle was stopped at a traffic light, and was then able to pull over and continue its journey.
+The vehicle was stopped at a traffic light, and was then able to pull over and continue its journey.
+The vehicle was stopped at a traffic light, and was then able to pull over
+                

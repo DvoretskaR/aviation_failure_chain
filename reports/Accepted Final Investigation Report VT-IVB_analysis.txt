@@ -1,0 +1,23 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-IVB
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+After a few days of training, the trainee has to drive the train to work. The trainee has to start the train at midnight and reach the station at 1 am. He has to be ready to leave at 4 am. 
+After leaving the station, the trainee gets on the train and heads to the station. The trainee is in the middle of the platform when the train comes to a stop.
+The trainee sees a woman standing on the platform and the trainee asks her to help him. 
+The trainee gets off the train and goes to the woman. 
+The trainee gets on the train and goes to the woman. The trainee gets off the train and goes to the woman. The trainee gets off the train and goes to the woman. 
+The trainee gets off the train and goes to the woman.
+                

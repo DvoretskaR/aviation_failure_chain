@@ -1,0 +1,29 @@
+                FLUGUNFALLANALYSEBERICHT: 20000913_A320_C-GTDC
+                
+                1. Kodierte Probleme:
+                - Human Factor:
+  • human factors
+                
+                2. Primärproblem:
+                Kategorie: HUMAN_FACTOR
+                Beweise: human factors
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: HUMAN_FACTOR
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+A. A motorcycle is traveling at 80 km/h in the left lane.
+B. The motorcycle is traveling at 80 km/h in the left lane.
+C. The motorcycle is traveling at 90 km/h in the left lane.
+D. The motorcycle is traveling at 90 km/h in the left lane.
+E. The motorcycle is traveling at 90 km/h in the left lane.
+F. The motorcycle is traveling at 90 km/h in the left lane.
+G. The motorcycle is traveling at 90 km/h in the left lane.
+H. The motorcycle is traveling at 90 km/h in the left lane.
+I. The motorcycle is traveling at 90 km/h in the left lane.
+J. The motorcycle is traveling at 90 km/h in the left lane.
+K. The
+                

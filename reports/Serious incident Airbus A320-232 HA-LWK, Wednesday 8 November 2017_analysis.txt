@@ -1,0 +1,18 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-232 HA-LWK, Wednesday 8 November 2017
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident:
+The collision caused the car to roll forward, into the center of the road, and onto the curb.  The car is traveling at 40mph and has a total of 60 feet of clearance.  The driver is in the passenger seat.  The driver is able to see the other driver and the driver of the other car.  The driver of the other car is traveling at a slower speed than the driver of the car that is traveling at 40mph.  The driver of the car that is traveling at 40mph sees the other car and the driver of the other car.  The driver of the car that is traveling at 40mph sees the other car and the driver of the other car.  The driver of the car that is traveling at 40mph sees the other car and the driver of the other car.  The driver of the car that is traveling at 40
+                

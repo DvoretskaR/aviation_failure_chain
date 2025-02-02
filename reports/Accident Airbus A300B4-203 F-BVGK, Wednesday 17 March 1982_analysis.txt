@@ -1,0 +1,21 @@
+                FLUGUNFALLANALYSEBERICHT: Accident Airbus A300B4-203 F-BVGK, Wednesday 17 March 1982
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Mechanical Failure
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Mechanical Failure
+Explain the failure chain leading to the accident:
+In the first stage, the engine stopped on the runway at the end of runway 28. The engine was completely shut down, and the runway was closed to traffic.
+At the time of the accident, the aircraft was flying at a very high speed, and the aircraft was being operated with the maximum speed. The aircraft was flying at a speed of approximately 250 knots. The aircraft was in the right position, but it did not have the control surfaces or the rudder.
+The aircraft was flying at a speed of approximately 250 knots. The aircraft was flying at a speed of approximately 250 knots. The aircraft was flying at a speed of approximately 250 knots. The aircraft was flying at a speed of approximately 250 knots.
+The aircraft was flying at a speed of approximately 250 knots. The aircraft was flying at a speed of approximately 250 knots. The aircraft was flying at a speed of
+                

@@ -1,0 +1,21 @@
+                FLUGUNFALLANALYSEBERICHT: 20151016_A320_9V-TRH
+                
+                1. Kodierte Probleme:
+                - Mechanical:
+  • damage
+                
+                2. Primärproblem:
+                Kategorie: MECHANICAL
+                Beweise: damage
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: MECHANICAL
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+At the start of the day, a car carrying two men was stopped by a truck with a truck driver. The truck driver refused to move the truck until the men gave up their phones and stopped their cell phones, which led to the two men being forced to give up their cell phones.
+The truck driver was driving around when the men stopped and the truck driver had a cigarette in his mouth. The cigarette was too hot for the truck driver to smoke. The truck driver had to take the cigarette from the trucker's mouth and throw it away because the cigarette was too hot.
+The men were also trying to use their cell phones to call their families, but the cell phone battery died. The truck driver had to take the phone from the trucker's mouth and throw it away because the phone battery died. The men were also trying to use their cell phones to
+                

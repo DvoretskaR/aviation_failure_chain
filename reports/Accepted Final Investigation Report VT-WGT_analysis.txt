@@ -1,0 +1,19 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-WGT
+                
+                1. Kodierte Probleme:
+                - Primary Problem:
+  • root cause
+                
+                2. Primärproblem:
+                Kategorie: PRIMARY_PROBLEM
+                Beweise: root cause
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: PRIMARY_PROBLEM
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+The driver's car starts up and drives around the corner. The driver hits the accelerator pedal and the car goes into a spin. The driver hits the brakes and the car starts up again. The driver hits the brakes again and the car goes into a spin. The driver hits the accelerator and the car goes into a spin. The driver hits the brakes again and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The driver hits the brakes and the car goes into a spin. The
+                

@@ -1,0 +1,18 @@
+                FLUGUNFALLANALYSEBERICHT: Accident Airbus A321-211 VQ-BOZ, Thursday 15 August 2019
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Human Error
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Human Error
+Explain the failure chain leading to the accident:
+The vehicle was traveling at a high rate of speed, and the front tires were bent in the same direction as the front wheel. As the vehicle accelerated, the driver noticed a strange amount of vibration. The driver tried to move the vehicle, but the tires were bent, and the driver realized that there was no way to avoid the problem. As the vehicle continued to accelerate, the driver realized that the tires were bent again. The driver tried to move the vehicle, but the tires were bent again. The vehicle continued to accelerate and then the driver noticed that the tires were bent again. The driver tried to move the vehicle, but the tires were bent again. The vehicle continued to accelerate and then the driver noticed that the tires were bent again. The driver tried to move the vehicle, but the tires were bent again. The vehicle continued to accelerate and then the driver noticed that the tires
+                

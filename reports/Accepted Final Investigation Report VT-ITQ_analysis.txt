@@ -1,0 +1,25 @@
+                FLUGUNFALLANALYSEBERICHT: Accepted Final Investigation Report VT-ITQ
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident:
+The main problem is that the driver of the car is not following the traffic signs and therefore is not in a position to avoid the accident. 
+The driver of the car is not aware that the traffic signs are not visible on the road. 
+The traffic signs are not visible on the road and the driver of the car is unaware that the traffic signs are not visible on the road. 
+The driver of the car is not aware that the traffic signs are not visible on the road. 
+The driver of the car is not aware that the traffic signs are not visible on the road. 
+The driver of the car is not aware that the traffic signs are not visible on the road. 
+The driver of the car is not aware that the traffic signs are not visible on the road. 
+The driver of the car is not aware that the
+                

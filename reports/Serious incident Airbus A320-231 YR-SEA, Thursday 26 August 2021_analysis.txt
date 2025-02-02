@@ -1,0 +1,33 @@
+                FLUGUNFALLANALYSEBERICHT: Serious incident Airbus A320-231 YR-SEA, Thursday 26 August 2021
+                
+                1. Kodierte Probleme:
+                
+                
+                2. Primärproblem:
+                Kategorie: UNKNOWN
+                Beweise: 
+                
+                3. Hauptursache:
+                Procedural Violation
+                
+                4. Fehlerkette:
+                Primary problem: UNKNOWN
+Main cause: Procedural Violation
+Explain the failure chain leading to the accident:
+The engine is running at full throttle.
+The right hand side of the front tire is spinning.
+The left hand side of the front tire is spinning.
+The right hand side of the front tire is spinning.
+The left hand side of the front tire is spinning.
+The engine is running at full throttle.
+The right hand side of the front tire is spinning.
+The left hand side of the front tire is spinning.
+The right hand side of the front tire is spinning.
+The engine is running at full throttle.
+The right hand side of the front tire is spinning.
+The left hand side of the front tire is spinning.
+The engine is running at full throttle.
+The right hand side of the front tire is spinning.
+The left hand side of the front tire is spinning.
+The engine is running at full throttle
+                
